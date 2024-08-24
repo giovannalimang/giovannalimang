@@ -1,5 +1,6 @@
 
 ## Olá! Eu sou a Giovanna Ng 🖐️
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
 
 
@@ -22,8 +23,11 @@ Python,Java,JavaScript, CSS e C
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="pycharm" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 </div><br/>
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
 ## Sobre mim
 👩🏻‍💻 Estudante do Instituto Federal de São Paulo
+
 💻Curso de Desenvolvimento de Sistemas
+
 📧giovannang07@gmail.com
